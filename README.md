@@ -1,4 +1,4 @@
-# Space-War (not apk)
+# Space-War (Just Source Code)
 ### Versi 1.1 (beta)
 
 Deskripsi: Game Shooter 2D. Hancurkan alien yang menghalangi jalanmu. Kerahkan kemampuanmu untuk bertahan hingga permainan berakhir.Penting untuk diingat! Semakin lama kamu bermain, semakin agresif musuh menyerangmu!
